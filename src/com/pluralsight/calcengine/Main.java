@@ -37,7 +37,7 @@ public class Main {
 			}
 		}
 		for(double theResult : results) {
-			System.out.print("result = ");
+			System.out.print("Result = ");
 			System.out.println(theResult);
 		}
     }
